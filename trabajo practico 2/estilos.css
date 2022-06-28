@@ -1,0 +1,79 @@
+ body { background-color: darkslategray;
+   
+               
+}
+
+h1 { background-color: white; color: rgb(74, 139, 139); 
+     font-size: 80px;    
+     text-align: center;
+     margin-top: 50px;
+
+}
+
+p { color: white;
+ text-align: justify;
+font-size: 22px;}
+
+
+ .aspiradora {  width: 500px;
+                margin-left: 40px;
+                border: 5px;
+                border-color: rgb(240, 207, 179);
+                border-style: solid;}
+
+
+ .celular {     width: 500px; 
+                margin-left: 40px;
+                border: 5px;
+                border-style: inset;
+                border-color: skyblue;
+                border-left-style: solid;
+                border-bottom-style: solid;}
+
+
+.consola {  width: 500px;
+            margin-left: 40px;border: 5px;
+            border-style: solid;    
+            border-color: rgba(255, 255, 255, 0.39);
+}
+
+
+
+
+.home { width: 500px;
+        margin-left: 40px;border: 5px;
+        border-style: solid;    
+        border-color: darkgrey;
+}
+
+
+.televisor { width: 500px;
+            margin-left: 40px;
+            border: 5px;
+            border-style: solid;    
+            border-color: darkgrey;
+}
+
+
+ #aspiradoras{  color: aqua;
+                font-size: 45px;
+
+
+}       
+
+#celulares { font-size: 45px;
+             color: rgb(185, 247, 255);
+}   
+
+
+
+#consolas { font-size: 45px;
+            color: rgb(211, 206, 206);        
+}
+
+#homes { font-size: 45px;
+        color: gray;
+}
+
+#televisores { font-size: 45px;
+                color: antiquewhite;}  

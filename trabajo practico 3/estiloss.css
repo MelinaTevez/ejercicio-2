@@ -1,0 +1,51 @@
+.logodisney { width: 600px;
+             display: block;
+             margin-left: auto;
+             margin-right: auto;
+
+}
+
+p { color: #3c63ae;
+    font-size: 22px;
+}
+
+body { font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+h1 { color: #bb5397;
+     text-align: center;
+     letter-spacing: 20px;
+     font-size: 60px;
+     font-weight: 100;
+}
+
+h2 { color: #bb5397;
+    font-weight: 100;
+    letter-spacing: 10px;
+    font-size: 30px;
+}
+
+ 
+
+
+.pop { float: right;
+        width: 600px;
+        padding-left: 10px;
+}
+
+
+.caribe { float: left;
+            
+            padding: 10px;
+            height: 360px;
+}
+
+
+.animalkindom { float: right;
+                width: 600px;
+}
+
+.mikey { width: 100%;
+         padding: 5px;
+}
+
+#fotos { border: 40px;}

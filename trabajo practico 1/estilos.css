@@ -1,0 +1,103 @@
+ body { background-color: #273238;
+   
+               
+}
+
+h1 { background-color: white; color: #6a8694; 
+     font-size: 110px;    
+     text-align: center;
+     margin-top: 50px;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     letter-spacing: 2px;
+
+
+}
+
+p {     color: white;
+        text-align: justify;
+        font-size: 22px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+
+}
+
+
+ .aspiradora {  width: 900px;
+                margin-left: 75px;
+                border: 8px;
+                border-color: #e6cbbf;
+                border-style: solid;}
+
+
+ .celular {     width: 900px; 
+                margin-left: 75px;
+                border: 8px;
+                border-style: solid;
+                border-color: #a1c1cb;
+                }
+
+
+.consola {  width: 900px;
+            margin-left: 75px;
+            border: 8px;
+            border-style: solid;    
+            border-color: #bcbdbf;
+}
+
+
+
+
+.home { width: 900px;
+        margin-left: 75px;
+        border: 8px;
+        border-style: solid;    
+        border-color: #8d94a1;
+}
+
+
+.televisor { width: 900px;
+            margin-left: 75px;
+            border: 8px;
+            border-style: solid;    
+            border-color:#b2b2aa;
+}
+
+
+ #aspiradoras{  color: #e6cbbf;
+                font-size: 50px;
+                font-family:Arial, Helvetica, sans-serif ;
+                font-style: italic;
+                font-weight: 900;
+
+}       
+
+#celulares { 
+             color: #a1c1cb;
+             font-size: 50px;
+             font-family:Arial, Helvetica, sans-serif ;
+             font-style: italic;
+             font-weight: 900;
+}   
+
+
+
+#consolas {
+            color: #bcbdbf;font-size: 50px;
+            font-family:Arial, Helvetica, sans-serif ;
+            font-style: italic;
+            font-weight: 900        
+}
+
+#homes {        color: #8d94a1;font-size: 50px;
+                font-family:Arial, Helvetica, sans-serif ;
+                font-style: italic;
+                font-weight: 900;
+}
+
+#televisores {  color: #b2b2aa;font-size: 50px;
+                font-family:Arial, Helvetica, sans-serif ;
+                font-style: italic;
+                font-weight: 900
+
+
+
+} 
